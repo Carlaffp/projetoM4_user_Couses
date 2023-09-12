@@ -3,6 +3,8 @@
 
 Neste projeto o objetivo foi criar um MVP (Minimum Viable Product) de uma API que faz o controle de usuários e cursos em que esses usuários serão matriculados. Essa API também precisa ter um controle de acessos, onde alguns recursos podem ser acessados apenas por usuários que fizeram login na aplicação, e outros recursos apenas usuários que fizeram login e tem permissões de administrador podem acessar.
 
+tecnologias: TypeScript, Express, NodeJs, PostgreSQL, PG para conexão com banco de dados, Serialização de dados com Zod, criptografia de senhas com Bcryptjs e autenticação e autorização com jsonwebtoken.
+
 
 ## **Tabelas do banco de dados**
 
